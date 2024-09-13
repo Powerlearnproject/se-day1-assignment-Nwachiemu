@@ -24,7 +24,7 @@ Agile: An iterative approach that promotes collaboration, flexibility, and frequ
 
 Software Developer: Writes, tests, and maintains the code that builds software applications.
 Quality Assurance (QA) Engineer: Ensures the software meets quality standards by performing various tests and reporting issues.
-Project Manager: Oversees the project, coordinates between teams, ensures deadlines are met, and manages resources.
+Project Manager: Oversees the project, coordinates between teams, ensures deadlines are met and manages resources.
 6. Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS)
 
 IDEs: Provide tools like code editors, debuggers, and compilers in one platform, improving productivity. Examples: Visual Studio Code, IntelliJ IDEA.
@@ -43,7 +43,7 @@ Acceptance Testing: Ensures the software meets the client's requirements and exp
 Part 2: Introduction to AI and Prompt Engineering
 1. What is Prompt Engineering?
 
-Prompt engineering is the process of crafting input queries (prompts) to effectively interact with AI models. It's crucial because a well-designed prompt leads to more accurate and useful responses from AI systems, enhancing the interaction experience.
+Prompt engineering is crafting input queries (prompts) to interact with AI models effectively. It's crucial because a well-designed prompt leads to more accurate and useful responses from AI systems, enhancing the interaction experience.
 
 2. Example of a Vague Prompt and Improvement
 
